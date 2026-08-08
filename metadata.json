@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris OS",
+  "description": "Ambient voice-driven intelligence with autonomous browser control, multilingual speech recognition, real-time command execution, and confidential offline privacy processing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
